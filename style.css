@@ -1,0 +1,15 @@
+@font-face { font-family: RedBullFont; src: url('RedBullSiriCore-Regular.ttf'); }
+
+div{
+font-family: RedBullFont
+}
+
+html{
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1280px;
+height: 720px;
+overflow: hidden;
+background: url("redbull_splash.png") no-repeat;
+}
